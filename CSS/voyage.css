@@ -1,0 +1,38 @@
+header{
+    background: linear-gradient(to top,rgb(34,193,195),rgb(103,248,184));
+    padding: 1px;
+    color: white;
+    text-align:left;
+}
+
+.ok{
+    background: linear-gradient( rgb(34,193,195),rgb(103,248,184));
+    border: thick double white;
+    padding: 20px;
+
+}
+
+.jap{
+    background: linear-gradient( rgb(65, 118, 216),	rgb(185,131,153));
+    border-radius: 20%;
+    display: flex;
+    font-size: 100%;
+
+}
+.aside{
+    background: linear-gradient( rgb(65, 118, 216),	rgb(185,131,153));
+    border-radius: 10%;
+    display: flex;
+    font-size: 80%;
+    }
+.black{
+    background: linear-gradient( rgb(65, 118, 216),	rgb(185,131,153));
+    border-radius: 20%;
+    display: flex;
+    font-size: 100%;
+}
+footer{
+    background: linear-gradient(to top,rgb(92,144,181),rgb(210,133,41));
+    padding: 20px;
+    color: white;
+}
